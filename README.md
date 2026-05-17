@@ -1,6 +1,6 @@
 
 # 🏎️ Zenix Service Suite v1.15.1 [BETA / HARDWARE EDITION]
-
+(SUPPORT END)
 **Zenix Service Suite v1.15.1** is my very first, historic beta version of a PC optimizer, completely written in classic **Windows Batch scripting (.bat)**! 
 
 This tool is designed for basic OS cleanup, resolving network latency, and gathering system specifications directly through the Windows command line.
